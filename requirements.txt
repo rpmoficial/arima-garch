@@ -1,0 +1,5 @@
+arch
+pandas
+yfinance
+statsmodels
+numpy
